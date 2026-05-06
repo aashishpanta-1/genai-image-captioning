@@ -38,4 +38,4 @@ python app.py
 The application will start a local Gradio server. Open a browser and navigate to `http://127.0.0.1:7860` to upload images and obtain captions.
 
 ## About the Author
-**Aashish** – final‑year BSc. CSIT student at Patan Multiple Campus, Tribhuvan University.
+**Aashish Panta, Patan Multiple Campus** – final‑year BSc. CSIT student at Patan Multiple Campus, Tribhuvan University.
